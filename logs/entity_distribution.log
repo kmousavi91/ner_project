@@ -1,0 +1,161 @@
+Entity Text Frequency per Label
+
+Label: STORAGE
+   1 TB Speicherkapazität: 58
+   2 TB Speicherkapazität: 51
+   500 GB Speicherkapazität: 37
+   4 TB Speicherkapazität: 36
+   Festplatte 500: 24
+   3 TB Speicherkapazität: 21
+   SSD 860: 18
+   4 TB Kapazität: 16
+   655 Ultraschneller SSD: 12
+   6 TB Speicherkapazität: 11
+   5 TB Speicherkapazität: 11
+   32 GB Speicher: 10
+   8 TB Speicherkapazität: 10
+   112 TB Kapazität: 9
+   250 GB Speicherkapazität: 8
+   480 GB Speicherkapazität: 7
+   Festplatte 1: 7
+   500 GB Festplatte: 6
+   960 GB Speicherkapazität: 6
+   12 TB Speicherkapazität: 6
+   Speicher 256: 5
+   120 GB Speicherkapazität: 5
+   645 Ultraschneller SSD: 5
+   640 Ultraschneller SSD: 5
+   750 GB Festplatte: 5
+   SSD 850: 4
+   1 TB Kapazität: 4
+   256 GB SSD: 4
+   Speicher 500: 4
+   25 Festplatte: 4
+   10 TB Speicherkapazität: 4
+   16 TB Speicherkapazität: 4
+   Festplatte 1000: 4
+   Festplatte 32: 3
+   24 TB Speicherkapazität: 3
+   3 TB Speicher: 3
+   Speicher 1000: 3
+   5 TB Kapazität: 3
+   240 GB Speicherkapazität: 3
+   Festplatte 256: 3
+   Speicher 20: 3
+   512 GB Kapazität: 3
+   8 GB Speicher: 3
+   Speicher 512: 3
+   Festplatte 640: 3
+   48 TB Kapazität: 3
+   48 TB Speicherkapazität: 3
+   32 TB Speicherkapazität: 2
+   32 GB Speicherkapazität: 2
+   Speicher 2: 2
+   20 TB Speicherkapazität: 2
+   16 GB Speicher: 2
+   1 TB Speicher: 2
+   450 Festplatte: 2
+   1 TB Festplatte: 2
+   4 GB Speicher: 2
+   15 TB Kapazität: 2
+   Festplatte 128: 2
+   14 TB Speicherkapazität: 2
+   128 GB SSD: 2
+   2 TB Kapazität: 2
+   Festplatte 750: 2
+   SSD 3: 2
+   64 TB Speicherkapazität: 2
+   2 TB Speicher: 1
+   20 Speicher: 1
+   SSD 156: 1
+   8 GB SSD: 1
+   Speicher 32: 1
+   96 TB Speicherkapazität: 1
+   Festplatte 64: 1
+   Festplatte 10: 1
+   384 TB Speicherkapazität: 1
+   30 Festplatte: 1
+   Speicher 5: 1
+   Festplatte 320: 1
+   750 GB Speicherkapazität: 1
+   64 GB SPeicherkapazität: 1
+   Speicherkapazität 512: 1
+   Speicher 15: 1
+   72 TB Speicherkapazität: 1
+   768 TB Speicherkapazität: 1
+   25 GB Speicher: 1
+   Festplatte 15: 1
+   3 TB Kapazität: 1
+   192 TB Speicherkapazität: 1
+   Speicher 8: 1
+   500 GB HDD: 1
+   36 TB Speicherkapazität: 1
+   80 TB Speicherkapazität: 1
+
+Label: COLOR
+   Schwarz: 181
+   Silber: 64
+   schwarz: 51
+   Weiß: 42
+   Blau: 31
+   Grau: 28
+   Rot: 24
+   weiß: 23
+   blau: 14
+   Gold: 14
+   silber: 12
+   orange: 6
+   Pink: 6
+   Gelb: 6
+   grau: 5
+   Orange: 5
+   Grün: 5
+   rot: 5
+   SchwarzBlau: 4
+   gold: 4
+   grauen: 4
+   SchwarzGelb: 3
+   gründlich: 3
+   Mattschwarz: 3
+   blaue: 3
+   weißt: 3
+   Lila: 3
+   Braun: 2
+   grün: 2
+   SchwarzSilber: 2
+   Blaulichtfilterung: 2
+   SchwarzNeongelb: 1
+   gründet: 1
+   braun: 1
+   Violett: 1
+   SilberGrau: 1
+   weißdass: 1
+   weißer: 1
+   Golden: 1
+   silberschwarz: 1
+   SilberWeiß: 1
+
+Label: BRAND_MODEL
+   Samsung: 67
+   Apple: 64
+   Lenovo: 35
+   HP: 31
+   Honor: 30
+   Sony: 22
+   Google: 15
+   ASUS: 15
+   LENOVO: 10
+   HUAWEI: 9
+   Acer: 9
+   Motorola: 8
+   HONOR: 7
+   SAMSUNG: 5
+   Huawei: 5
+   Alcatel: 5
+   Asus: 4
+   Dell: 3
+   Nokia: 3
+   honor: 2
+   motorola: 2
+   ZTE: 1
+

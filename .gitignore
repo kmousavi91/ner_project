@@ -1,10 +1,4 @@
 __pycache__/
 *.pyc
-*.pkl
-*.spacy
-logs/
-output/
-*.log
-*.png
 .env
 venv/
