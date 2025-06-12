@@ -1,0 +1,31 @@
+1- How do you think that the provided solution could enhance the sellers’ experience in onboarding new products into our Marketplace?
+The provided NER solution automates the extraction of structured product information (e.g. brand, storage size, color, model names) from raw German product descriptions — even if they are messy, unstructured, or contain user-generated content.
+
+Benefits for Seller Onboarding:
+I) Faster Listing Creation: Sellers no longer need to manually fill out product attributes — our hybrid NER system automatically identifies key fields. This leads to saving a lot of time for sellers especially when number of products to fill out are huge.
+
+II) Higher Data Consistency: By extracting data using both a trained model and robust rule-based logic, product listings maintain standardized formats (e.g. "512 GB SSD" is consistently recognized).
+
+III) Error Reduction: The fallback rules prevent total failure when the model is uncertain, ensuring entities like brand or storage are still extracted reliably.
+
+IV) Multilingual and Noisy Input Handling: Thanks to hybrid rule-based and machine learning design, the model can handle noicy and messy texts. For example, if the seller does a mistake in typing and grammer (“in silber farbe” instead of “in silberner Farbe”), the model solve it and recognize the wrong format and gives correc entities finally.
+
+V) Improved Search and Filters: Structured product attributes enhance search engine performance and marketplace filtering (e.g., users can search "Red Acer Laptop with 1TB SSD" and get relevant results).
+
+This significantly reduces friction for sellers, improves the data quality in the marketplace, and ultimately leads to better buyer experiences.
+
+4- The shared data was prepared using a naive string matching algorithm for extracting the entities using partially available products' technical attributes. How do you think the data extraction and preparation could be improved?
+
+The initial string-matching approach is limited and can miss variations in spelling, grammar, or phrasing. To improve it:
+
+I) Use pattern-based rules (e.g. with spaCy) instead of simple strings to better catch formats like "512GB SSD" or "superschnelle Festplatte".
+
+II) Build gazetteers for brands, colors, memory sizes, and normalize variants (e.g. "silberne", "silber").
+
+III) Add labeling rules based on context, POS tags, and word shapes to reduce noise.
+
+IV) Include manual review (I mean human check and some tests by which we check the accuracy of our prepration) for a small set of samples to improve quality.
+
+V) Apply data augmentation (synonyms, typos, variations) to make the model more robust.
+
+These steps help generate cleaner, more diverse, and higher-quality training data for better model performance.
